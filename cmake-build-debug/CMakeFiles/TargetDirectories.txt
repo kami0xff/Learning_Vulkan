@@ -1,0 +1,3 @@
+/home/kami/dev/C++/LearningVulkan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kami/dev/C++/LearningVulkan/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kami/dev/C++/LearningVulkan/cmake-build-debug/CMakeFiles/LearningVulkan.dir
